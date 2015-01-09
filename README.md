@@ -16,7 +16,7 @@ PHP micro-framwork, trying to implement the MVC pattern as simple as possible
 * [ ] add comments and documentation
 * [ ] better README
 
-## Files Sructure Explanation
+## Files sructure
 ```
 |-- public/
 |   |-- assets/ 
@@ -24,7 +24,7 @@ PHP micro-framwork, trying to implement the MVC pattern as simple as possible
 |   |-- .htacess
 |-- app/
 |   |-- themes/
-|   |   |--  [sample_theme]/ 
+|   |   |-- [sample_theme]/ 
 |   |   |   | --  [sample_theme].php
 |   |-- controllers/
 |   |   |--  [sample_ctrl].php
