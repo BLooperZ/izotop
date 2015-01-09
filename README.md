@@ -25,9 +25,9 @@ PHP micro-framwork, trying to implement the MVC pattern as simple as possible
 |-- app/
     |-- themes/
         |-- [sample_theme]/ 
-            | --  [sample_theme].php
+            |-- [sample_theme].php
     |-- controllers/
-        |--  [sample_ctrl].php
+        |-- [sample_ctrl].php
     |-- pages/
     |-- core.php
     |-- config.php
