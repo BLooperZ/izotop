@@ -33,6 +33,7 @@ PHP micro-framwork, trying to implement the MVC pattern as simple as possible
 |   |   |    |--  [sample_page].php
 |   |-- core.php
 |   |-- config.php
+|   |-- helpers.php
 |-- .htacces
 ```
 ##please, check this code - if you can make it better, pull request!
