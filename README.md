@@ -29,11 +29,11 @@ PHP micro-framwork, trying to implement the MVC pattern as simple as possible
 |   |   | --  [sample_theme]/ 
 |   |   |   |--- will contain the theme files....
 |   |   |   | --  [sample_theme].php
-|   |   | --         --- will contain class called [sample_theme] which make the theme
+|   |           --- will contain class called [sample_theme] which make the theme
 |   | --  controllers/
 |   |   |  --- controllers directory.....
 |   |   | --  [sample_ctrl].php
-|   |          --- will contain class called [sample_ctrl] which will have the pages as methods
+|   |      --- will contain class called [sample_ctrl] which will have the pages as methods
 |   | --  core.php
 |   |     --- the framework itself.....
 |   | -- config.php
