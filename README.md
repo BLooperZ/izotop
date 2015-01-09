@@ -19,21 +19,19 @@ PHP micro-framwork, trying to implement the MVC pattern as simple as possible
 ## Files sructure
 ```
 |-- public/
-|   |-- assets/ 
-|   |-- index.php
-|   |-- .htacess
+    |-- assets/ 
+    |-- index.php
+    |-- .htacess
 |-- app/
-|   |-- themes/
-|   |   |-- [sample_theme]/ 
-|   |   |   | --  [sample_theme].php
-|   |-- controllers/
-|   |   |--  [sample_ctrl].php
-|   |-- pages/
-|   |   |--  [sample_ctrl]/
-|   |   |    |--  [sample_page].php
-|   |-- core.php
-|   |-- config.php
-|   |-- helpers.php
+    |-- themes/
+        |-- [sample_theme]/ 
+            | --  [sample_theme].php
+    |-- controllers/
+        |--  [sample_ctrl].php
+    |-- pages/
+    |-- core.php
+    |-- config.php
+    |-- helpers.php
 |-- .htacces
 ```
 ##please, check this code - if you can make it better, pull request!
