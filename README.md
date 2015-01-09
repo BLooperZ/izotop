@@ -14,6 +14,7 @@ PHP micro-framwork, trying to implement the MVC pattern as simple as possible
 * [ ] implement an example theme
 * [ ] check that everything else working optimally
 * [ ] add comments and documentation
+* [ ] better README
 
 ## Files Sructure Explanation
 ```
