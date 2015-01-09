@@ -93,7 +93,7 @@ Class Site
   }
   
   static function route() {
-    $url = (isset($_GET['url'])) ? filter_var(trim($_GET['url'], '/'), FILTER_SANITIZE_URL) : '';
+    $url = (isset($_GET['url'])) ? trim($_GET['url'], '/') : '';
     $url = explode('/', $url);
     if (! is_readable(APP . 'controllers/' . $url[0] . '.php')) {
       $default = Config::$project['default_ctrl'];

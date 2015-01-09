@@ -11,7 +11,12 @@ class Main extends Controller
   
   static function bloop()
   {
-    echo"fssssssssss";
+    echo "fssssssssss";
+  }
+
+  static function newpage($message)
+  {
+    echo $message;
   }
     
 }
