@@ -28,6 +28,9 @@ PHP micro-framwork, trying to implement the MVC pattern as simple as possible
 |   |   |   | --  [sample_theme].php
 |   |-- controllers/
 |   |   |--  [sample_ctrl].php
+|   |-- pages/
+|   |   |--  [sample_ctrl]/
+|   |   |    |--  [sample_page].php
 |   |-- core.php
 |   |-- config.php
 |   |-- .htacess
