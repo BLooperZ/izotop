@@ -1,0 +1,1 @@
+<h1><?= $controller::$error ?></h1>
