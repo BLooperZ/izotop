@@ -25,8 +25,8 @@ Class Config
   );
   
   static $project = array(
-    'name' => 'Site_Name',
-    'description' => 'Site_Description',
+    'name' => 'IZOTOP',
+    'description' => 'Simple PHP micro-framework',
     'author' => 'BLooperZ',
     'env' => 'development',
     'default_ctrl' => 'Main',
